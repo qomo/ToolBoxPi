@@ -24,7 +24,7 @@
 
 ## 草稿  
 
-[这里有张图](https://github.com/qomo/ToolBoxPi/blob/master/res/skechup.jpg)
+![这里有张图](https://github.com/qomo/ToolBoxPi/blob/master/res/skechup.jpg)
 
 首先，要有面工具挂板墙，规划好各种工具挂置的位置与编号。
 
