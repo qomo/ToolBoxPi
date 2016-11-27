@@ -1,0 +1,22 @@
+{
+	"manager": "13817486091",
+	"user_list": ["13817486091",],
+	"tool_hook_info_list": [
+		{
+			"hook_ID": 1,
+			"tool_name": "multimeter",
+			"toll_img": "tools_img/1_multimeter.png",
+			"lend_to": null,
+			"is_avaliable": true,
+			"QR_code": null,
+		}
+		{
+			"hook_ID": 2,
+			"tool_name": null,
+			"tools_img": null,
+			"lend_to": null,
+			"is_avaliable": null,
+			"QR_code": null,
+		}
+	],
+}
